@@ -1,0 +1,11 @@
+# Environment
+.idea/
+
+# Cache and temporary file
+__pycache__/
+.swp
+
+# Python environment
+env/
+.env
+.flaskenv
