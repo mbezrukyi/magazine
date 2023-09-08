@@ -3,6 +3,7 @@
 
 # Cache and temporary file
 __pycache__/
+migrations/
 .swp
 
 # Python environment
